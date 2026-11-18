@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Arkanjak/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/Arkanjak/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here — sign up through my link:** <https://make.fun/r/70g2bt0c>
+> **Start here — sign up through my link:** <https://make.fun/r/ne0pfbnn>
 >
-> Referral code: `70g2bt0c`
+> Referral code: `ne0pfbnn`
 >
 > It costs you nothing extra, and it helps this guide keep existing. If you found this page useful, that link is the easiest thank-you.
 
@@ -73,7 +73,7 @@ The point is not the exact times — it is that the loop is small. The build is 
 
 ## Step 1 — Create your account
 
-1. Open <https://make.fun/r/70g2bt0c> and click **Sign in** at the top right.
+1. Open <https://make.fun/r/ne0pfbnn> and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from your profile too. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -213,7 +213,7 @@ make.fun pays the referral share on top, so the referred person's own reward sta
 
 Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile.
 
-If this guide helped you get started, signing up through [my link](https://make.fun/r/70g2bt0c) (code `70g2bt0c`) is a nice way to say thanks.
+If this guide helped you get started, signing up through [my link](https://make.fun/r/ne0pfbnn) (code `ne0pfbnn`) is a nice way to say thanks.
 
 ## Common mistakes (learn from other people's rejections)
 
@@ -257,4 +257,4 @@ Where a competition has a side market switched on, you can buy or sell YES or NO
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/70g2bt0c · code `70g2bt0c`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/ne0pfbnn · code `ne0pfbnn`</sub>
